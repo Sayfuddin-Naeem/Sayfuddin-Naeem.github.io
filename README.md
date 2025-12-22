@@ -1,10 +1,6 @@
 # MD. SAYFUDDIN NAEEM
 
 ### 💼 Software Engineer | Full-Stack Web Developer (MERN)
-![Profile Views](https://komarev.com/ghpvc/?username=Sayfuddin-Naeem&style=for-the-badge&color=blue)
-
-🏆 **GitHub Achievements**
-![Trophy](https://github-profile-trophy.vercel.app/?username=Sayfuddin-Naeem&theme=radical&no-frame=true&row=1&column=6)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayfuddin-naeem)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sayfuddin-Naeem)
@@ -98,7 +94,7 @@ I enjoy writing **clean, maintainable code**, optimizing performance, and contin
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayfuddin-Naeem&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sayfuddin-Naeem&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Sayfuddin-Naeem&theme=radical&hide_border=true)
 
 ### 🧠 Contribution Graph
 
